@@ -1,0 +1,17 @@
+.build/
+build/
+.DS_Store
+*.xcuserstate
+xcuserdata/
+
+Deployments/
+Design/
+Heads-up-*.md
+
+*.mobileprovision
+*.provisionprofile
+*.p12
+*.cer
+*.ipa
+*.xcarchive/
+*.log
